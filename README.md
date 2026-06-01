@@ -9,6 +9,7 @@ A collection of end-to-end A/B test analyses using real-world datasets. Each pro
 | Project | Metric | Test | Result |
 |---|---|---|---|
 | [E-Commerce Revenue](./ecommerce-revenue/) | Average revenue per user | T-test | Fail to reject H₀ |
+| [Funnel Experiments](./funnel-experiments/) | CTR · conversion · AOV · ARPU · retention | z-test & Welch's t-test | Mixed (significant lift on CTR/conversion/ARPU) |
 
 ---
 
